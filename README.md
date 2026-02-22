@@ -1,5 +1,11 @@
 # Hybrid Physical Server Backup Architecture (AWS + VPN Offsite Copy)
 
+Client: Confidential Multinational Publishing Company 
+Industry: Book & Publishing  Size: 3000-4000 endpoints
+Solution: Automated Physical Server Backup and Offsite Copy
+Tool: AWS Backup
+Cloud Platform: Amazon Web Services (AWS)
+
 ## Overview
 
 This repository documents the implementation of a hybrid backup solution for a physical Windows Server environment.
