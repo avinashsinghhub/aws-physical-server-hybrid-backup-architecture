@@ -19,7 +19,7 @@ This design provides dual independent backup paths for business continuity and d
 
 ## Architecture Diagram
 
-![Hybrid Backup Architecture](https://github.com/avinashsinghhub/aws-physical-server-hybrid-backup-architecture/blob/0f5cd4067d51d58f16fbaf8e308986d2a76872ed/architecture/aws-physical-server-hybrid-backup-architecture.png)
+![Hybrid Backup Architecture](https://github.com/avinashsinghhub/aws-physical-server-hybrid-backup-architecture/blob/08e9de12e1b33f2a533f6b6d5bc6c1c488d6dd29/architecture/aws-physical-server-hybrid-backup-architecture.png)
 
 ---
 
@@ -50,3 +50,7 @@ Windows Server → Scheduled Incremental Job → Site-to-Site VPN → Office B W
 - Primary Recovery: Restore from AWS Backup Vault
 - Secondary Recovery: Restore from Office B external HDD
 - Backup jobs monitored via SNS email alerts
+
+---
+Author: Avinash Singh  
+Hybrid Infrastructure | AWS Backup Strategy | DR Architecture
